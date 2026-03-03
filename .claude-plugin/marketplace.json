@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "product-os",
+  "description": "Product Operating System v2: 36 skills + 19 agents para ciclo completo de produto.",
+  "owner": {
+    "name": "jessgarbin-pipe"
+  },
+  "plugins": [
+    {
+      "name": "product-os",
+      "description": "Sistema completo de inteligencia de produto com 36 skills e 19 agents cobrindo 8 fases.",
+      "version": "2.0.0",
+      "author": { "name": "jessgarbin-pipe" },
+      "source": "./"
+    }
+  ]
+}

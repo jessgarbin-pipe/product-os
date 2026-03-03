@@ -1,0 +1,8 @@
+{
+  "name": "product-os",
+  "version": "2.0.0",
+  "description": "Product OS v2: sistema de inteligencia de produto com 36 skills, 19 agents e hooks. Cobre 8 fases do ciclo de produto: Monitoramento, Discovery, Triagem, Estrategia, Validacao, Concepcao, Delivery e GTM.",
+  "author": {
+    "name": "jessgarbin-pipe"
+  }
+}

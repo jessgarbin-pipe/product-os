@@ -1,0 +1,11 @@
+.DS_Store
+reports/*
+!reports/.gitkeep
+.claude/hooks/archive/
+.claude/cache/
+.claude/skills.zip
+*.cache
+*.tmp
+settings.local.json
+*.docx
+.fuse_hidden*
